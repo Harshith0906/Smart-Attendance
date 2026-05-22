@@ -35,8 +35,10 @@ Smart Attendance is a desktop application that replaces manual roll-calls with a
 ## 🗂️ Project Structure
 
 Smart-Attendance/
-├── main.py                              # Main application
-├── haarcascade_frontalface_default.xml  # Haar Cascade for face detection (required)
+ ├── main.py                              # Main application
+ 
+ ├── haarcascade_frontalface_default.xml  # Haar Cascade for face detection (required)
+ 
 ├── install commands .txt                # Dependency list
 ├── TrainingImage/                       # Auto-created: captured face images
 ├── TrainingImageLabel/                  # Auto-created: trained model & password
